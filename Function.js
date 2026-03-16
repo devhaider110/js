@@ -1,9 +1,9 @@
 function SayMyName() {
     console.log("S");
     console.log("A");
-    console.log("M");
-    console.log("I");
-    console.log("R");
+    console.log("Y");
+    console.log("E");
+    console.log("D");
 }
 
 // SayMyName()
@@ -23,7 +23,7 @@ const result = addTwoNumbers(3, 5);
 
 // console.log("Result:", result);
 
-function  loginUserMessage(username = "sam"){
+function  loginUserMessage(username = "Haider"){
     // if (username == undefined) 
     // if (!username) 
     //     {
@@ -33,9 +33,9 @@ function  loginUserMessage(username = "sam"){
     return `${username} just logged in`
 }
 
-// console.log(loginUserMessage("Samir"))
+// console.log(loginUserMessage("Haider"))
 // console.log(loginUserMessage())
-// console.log(loginUserMessage("Samir"))
+// console.log(loginUserMessage("Haider"))
 
 
 function claculateCartPrice(val1, val2, ...num1) {
@@ -45,7 +45,7 @@ function claculateCartPrice(val1, val2, ...num1) {
 // console.log(claculateCartPrice(200,300,400,500));
 
 const user = {
-    username: "Samir",
+    username: "Haider",
     price: 199
 }
 
@@ -55,7 +55,7 @@ function handleObject(anyobject){
 }
 
 handleObject({
-    username: "Sam",
+    username: "Sayed",
     price: 399
 })
 
