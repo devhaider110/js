@@ -1,5 +1,5 @@
 const user = {
-    username: "Samir",
+    username: "Haider",
     price: 999,
     welcomeMessage: function () {
         console.log(`${this.username}, welcome to website`);
