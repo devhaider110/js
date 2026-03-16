@@ -1,11 +1,11 @@
-const name = "Samir";
+const name = "Haider";
 const repoCount= 0;
 
 // console.log(name + repoCount + "value");
 
 // console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
-const gameName = new String('Samir-Ansari') // object
+const gameName = new String('Haider-Zaidi') // object
 
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
@@ -21,12 +21,12 @@ console.log(newString);
 const anothString = gameName.slice(-6,4);
 console.log(anothString); 
 
-const newStringOne = "    Samir Ansari    ";
+const newStringOne = "    Haider Zaidi    ";
 console.log(newStringOne);
 
 console.log(newStringOne.trim());
 
-const url = "http//samir.com/samir%13ansari";
+const url = "http//haider.com/haider%13sayed";//example
 console.log(url.replace('%13',' - '));
 console.log(url.includes('%13'));
 
