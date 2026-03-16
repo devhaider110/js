@@ -3,7 +3,7 @@
 const tinderUser = {};
 
 tinderUser.id = "123abc";
-tinderUser.name = "Sammy";
+tinderUser.name = "Haider";
 tinderUser.isLoggedIn = false;
 
 // console.log(tinderUser);
@@ -54,7 +54,7 @@ users[1].id;
 const course = {
     courseName: "Js in hindi",
     coursePrice: "999",
-    courseInstucture: "Hitesh",
+    courseInstucture: "Haider",
 }
 
 // console.log(course.courseInstucture);
