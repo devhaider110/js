@@ -3,7 +3,7 @@
 // 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
 
 // String
-const str = "Samir";
+const str = "Haider";
 
 // Number
 const score = 100;
@@ -39,14 +39,14 @@ const hero = ["Iron Man", "Thor", "Hulk", "Loki"];
 
 // Object
 let obj = {
-    Name : "Samir",
+    Name : "Haider",
     Age : 19,
     "Job Role" : "SDE",
 }
 
 // Function
 let myFunction = function() {
-    console.log("Samir");
+    console.log("Haider");
     
 }
 
@@ -57,19 +57,19 @@ let myFunction = function() {
 // Stack (Primitive Datatype / Call by Value)
 // let youtubeID = "Samir";
 // let anotherId = youtubeID;
-// anotherId = "Ansari";
+// anotherId = "Sayed";
 // console.log(youtubeID);
 // console.log(anotherId);
 
 // Heap (Non-Primitive DataType / Call by Reference)
 let UserOne = {
-    Name : "Samir",
+    Name : "Haider",
     age : 19,
-    email : "Samir@mail.com"
+    email : "Haider@mail.com"
 }
 
 let UserTwo = UserOne;
 
-UserTwo.email = "Sa@gmail";
+UserTwo.email = "Sayed@gmail";
 console.log(UserOne.email);
 console.log(UserTwo.email);
