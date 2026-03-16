@@ -1,4 +1,4 @@
-let Name = "Samir";
+let Name = "Haider";
 // console.log(typeof Name);
 let valuenum = Number(Name);
 // console.log(typeof valuenum);
@@ -8,13 +8,13 @@ let valuenum = Number(Name);
 // "33sam" => NaN
 // true => 1 ; false => 0
 
-let isLoggeIn = "Samir";
+let isLoggeIn = "Haider";
 // let inToBoolean = Boolean(isLoggeIn);
 // console.log(typeof inToBoolean);
 // console.log(inToBoolean);
 
 // 1 => true; 0 = false
-// Samir => true;
+// Haider => true;
 // " " => false
 
 let someNumber = 33
@@ -40,8 +40,8 @@ let stringNumber = String(someNumber)
 // console.log("1" + 2 + 3); => 123  
 // console.log(1 + 2 + "3"); => 33
 
-// let str1 = "Samir";
-// let str2 = "Ansari";
+// let str1 = "Haider";
+// let str2 = "Zaidi";
 // console.log(str1 + str2);
 
 // console.log(+true);
